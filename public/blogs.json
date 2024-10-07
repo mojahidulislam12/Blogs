@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/FmFxYrQ/1.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/brqF2JX/boy1.png",
+      "posted_date": "2024-08-15",
+      "reading_time": "5 min",
+      "hashtag": ["#tech", "#innovation", "#AI"],
+      "title": "Mastering ES6 JavaScript Features"
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/dpPrJ3S/2.png",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/yN1RqVP/boy2.jpg",
+      "posted_date": "2024-09-02",
+      "reading_time": "7 min",
+      "hashtag": ["#health", "#wellness", "#lifestyle"],
+      "title": "Becoming a Programming Hero"
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/18DPHpr/3.png",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co.com/VQhFRYd/girl1.jpg",
+      "posted_date": "2024-07-28",
+      "reading_time": "10 min",
+      "hashtag": ["#business", "#leadership", "#success"],
+      "title": "A Beginner's Guide to React"
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/mGtBv7N/4.jpg",
+      "author": "Mike Rogers",
+      "author_img": "https://i.ibb.co.com/rtfBQxL/girl2.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": "3 min",
+      "hashtag": ["#science", "#space", "#exploration"],
+      "title": "Top Free Resources for Learning to Code"
+    }
+    
+  ]
+  
